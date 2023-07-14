@@ -1,6 +1,5 @@
 package week1.thurs;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class H_5333 {
@@ -16,6 +15,7 @@ public class H_5333 {
         }
 
         System.out.println(sum2);
+        sc.close();
     }
     
 }

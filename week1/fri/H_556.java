@@ -1,4 +1,4 @@
-package week1;
+package week1.fri;
 
 
 public class H_556 {
