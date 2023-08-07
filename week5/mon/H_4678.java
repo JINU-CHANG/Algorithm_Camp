@@ -1,4 +1,4 @@
-package week5;
+package week5.mon;
 
 import java.io.BufferedReader;
 import java.io.IOException;
