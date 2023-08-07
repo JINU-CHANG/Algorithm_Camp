@@ -6,8 +6,6 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
-import javax.swing.text.html.HTMLDocument.Iterator;
-
 public class H_4679 {
     static TreeSet<String> tset = new TreeSet<>();
     public static void main(String[] args) throws IOException {
